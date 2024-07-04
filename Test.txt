@@ -1,2 +1,7 @@
 This file is created to test
 the working
+<<<<<<< HEAD
+=======
+This is the test to show
+ok..
+>>>>>>> 1e3776053cac3ea626eadf3d7fac0bb0dd7e5db0
