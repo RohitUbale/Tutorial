@@ -4,4 +4,8 @@ the working
 =======
 This is the test to show
 ok..
+<<<<<<< HEAD
 >>>>>>> 1e3776053cac3ea626eadf3d7fac0bb0dd7e5db0
+=======
+This is the third change
+>>>>>>> 7ab968ea7ae9db3071abd7f832081984aeb1fbb7
